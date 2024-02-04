@@ -1,0 +1,2 @@
+# React Native beginner roadmap
+ Welcome to the React Native Beginner Roadmap repository! 🚀 This project aims to provide a comprehensive roadmap for beginners diving into React Native development. Whether you're a seasoned developer exploring mobile app development or a complete newcomer to programming, this roadmap will guide you through the essential concepts, tools, and practices needed to build React Native applications.

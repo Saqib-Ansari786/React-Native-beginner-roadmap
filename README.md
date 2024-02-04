@@ -43,6 +43,12 @@ First of all, you need to install the Expo client app on your mobile device. You
     --> Click on "Private" and turn on the sharing option.
     --> Then go to the Expo client app and scan the QR code.
 
+#Image No 1:
+![Internet Settings](https://github.com/Saqib-Ansari786/React-Native-beginner-roadmap/blob/main/images/step1.png)
+
+#Image No 2:
+![Private or Public](https://github.com/Saqib-Ansari786/React-Native-beginner-roadmap/blob/main/images/step2.png)
+
 # Conclusion
 
 In future updates, I will be adding more content to this roadmap. I will be adding more sections like state management, navigation, networking, data persistence, testing, deployment, performance, and security. I will also be adding more resources and links to help you learn more about React Native. I hope this roadmap will help you get started with React Native and build your first mobile application. If you have any questions or feedback, feel free to reach out to me. I would love to hear from you! 🚀
